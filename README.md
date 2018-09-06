@@ -2,9 +2,12 @@
 
 ## Data structures
 
-	### Trees
+### **Trees**
 	
-	Level order traversal - [Solution](Data Structures\Trees\Level Order Traversal\Solution.cpp)
-		Link: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
-		Explantion: https://www.youtube.com/watch?v=NjdOhYKjFrU
-		
+Level order traversal -
+[Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Trees/Level%20Order%20Traversal/Solution.cpp/)
+,
+[Link to the problem ](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem/)
+,
+[Explantion](https://www.youtube.com/watch?v=NjdOhYKjFrU/)
+	
