@@ -17,3 +17,8 @@ Self Balancing Tree -
 [Link to the problem ](https://www.hackerrank.com/challenges/self-balancing-tree/problem)
 ,
 [Explantion](https://www.youtube.com/watch?v=_c9MekIdl98)
+
+Binary Search Tree : Insertion -
+[Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Trees/Binary%20Search%20Tree%20Insertion/Solution.cpp/)
+,
+[Link to the problem ](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)
