@@ -42,3 +42,10 @@ Tree: Preorder Traversal -
 [Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Trees/Tree%20Preorder%20Traversal/Solution.cpp/)
 ,
 [Link to the problem ](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
+
+### **Graphs**
+BFS: Shortest Reach in a Graph -
+[Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Graphs/BFS%20Shortest%20Reach%20in%20a%20Graph/Solution.cpp/)
+,
+[Link to the problem ](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem)
+
