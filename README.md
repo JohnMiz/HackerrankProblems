@@ -1,4 +1,4 @@
-# HackerrankProblems
+# ProgrammingProblems
 
 ## Data structures
 
