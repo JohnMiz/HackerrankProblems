@@ -49,3 +49,7 @@ BFS: Shortest Reach in a Graph -
 ,
 [Link to the problem ](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem)
 
+DFS: Connected Cell in a Grid -
+[Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Graphs/DFS%20Connected%20Cell%20in%20a%20Grid/Solution.cpp/)
+,
+[Link to the problem ](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
