@@ -55,6 +55,8 @@ DFS: Connected Cell in a Grid -
 ,
 [Link to the problem ](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
 
+## Algorithms
+
 ### **Dynamic Programming**
 	
 The Longest Common Subsequence (LCS) -
