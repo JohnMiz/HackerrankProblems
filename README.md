@@ -44,6 +44,7 @@ Tree: Preorder Traversal -
 [Link to the problem ](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
 
 ### **Graphs**
+
 BFS: Shortest Reach in a Graph -
 [Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Graphs/BFS%20Shortest%20Reach%20in%20a%20Graph/Solution.cpp/)
 ,
@@ -53,3 +54,12 @@ DFS: Connected Cell in a Grid -
 [Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Data%20Structures/Graphs/DFS%20Connected%20Cell%20in%20a%20Grid/Solution.cpp/)
 ,
 [Link to the problem ](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
+
+### **Dynamic Programming**
+	
+The Longest Common Subsequence (LCS) -
+[Solution](https://github.com/JohnMiz/HackerrankProblems/blob/master/Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence%20(LCS)/Solution.cpp/)
+,
+[Link to the problem ](https://www.hackerrank.com/challenges/linkedin-practice-dynamic-programming-lcs/problem)
+,
+[Explantion](https://www.youtube.com/watch?v=NnD96abizww)
